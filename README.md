@@ -15,9 +15,13 @@ You can find two demo projects in the [test branch]
 The first demo "Note" shows how to get key presses and releases from MidiJack.
 The size of the cubes are relative to velocity of a key press.
 
+![Screenshot1](http://keijiro.github.io/MidiJack/screenshot1.png)
+
 #### CC
 
 The second demo "CC" shows how to get CC (control change) data from MidiJack.
+
+![Screenshot2](http://keijiro.github.io/MidiJack/screenshot2.png)
 
 System Requirement
 ------------------
