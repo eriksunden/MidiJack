@@ -68,7 +68,7 @@ Returns true only if the key was pressed down in the current frame.
 
 Returns true only if the key was released in the current frame.
 
-#### GetKnob (channel, knobNumber)
+#### GetKnob (channel, knobNumber, defaultValue)
 
 Returns the current knob (CC) value which will be between 0.0f and 1.0f.
 
